@@ -1,0 +1,25 @@
+{
+  "name": "aframe-snc-component",
+  "version": "0.0.1",
+  "description": "A ServiceNow NXF component for showing 360 degree photos using aframe.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rninne/aframe-snc-component.git"
+  },
+  "keywords": [
+    "aframe",
+    "servicenow",
+    "component",
+    "nxf"
+  ],
+  "author": "Robert Ninness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rninne/aframe-snc-component/issues"
+  },
+  "homepage": "https://github.com/rninne/aframe-snc-component#readme"
+}
